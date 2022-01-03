@@ -22,3 +22,5 @@ yarn-error.log*
 /Deploy-dev-server.sh
 
 /'$RECYCLE.BIN'
+
+$RECYCLE.BIN/
