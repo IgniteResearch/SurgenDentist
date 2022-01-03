@@ -1,4 +1,5 @@
 .LOG
+
 9:11 AM 1/3/2022
 1. Modified the Title in intro.md file 
 
@@ -7,3 +8,6 @@
 
 9:45 AM 1/3/2022
 modified Deploy-dev-server.sh with conditional checks 
+
+9:53 AM 1/3/2022
+commited Deploy-dev-server.sh to remote git
