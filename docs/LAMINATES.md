@@ -1,4 +1,6 @@
-![https://www.fmsdental.com/wp-content/uploads/2021/05/600X400-PERMENANT-FIXED-TEETH-002.jpg](https://www.fmsdental.com/wp-content/uploads/2021/05/600X400-PERMENANT-FIXED-TEETH-002.jpg) Smile To Wow ! !
+
+
+ Smile To Wow ! !
 
 The cosmetic dentist  can guide you through the dilemma between porcelain & composite veneers/laminate so that you get veneers most ideal for your situation.
 
@@ -8,7 +10,7 @@ The cosmetic dentist  can guide you through the dilemma between porcelain & comp
 
 Have you always envied the smile of your favorite celebrity and wondered how they have such beautifully aligned sparkling teeth? You might be surprised to find out how many of them have had cosmetic dental work.That beautiful smile can actually be yours and the quickest way of doing that is to opt for dental Veneers and Laminates.These are wafer-thin shells of tooth-coloured material that are fixed to the front surface of the teeth to improve their cosmetic appearance. They can, not only close the spaces but also can change the shape, shade, and position of the teeth. In fact dental veneers are for your teeth what false fingernails are for your hands!!!
 
-![SMILE TO WOW](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1024,h_439/https://www.fmsdental.com/wp-content/uploads/2021/02/SMILE-TO-WOW-1024x439.jpg)
+![happy-family.jpg (1024×439) (surgendentist.in)](http://media.surgendentist.in/happy-family.jpg)
 
 #### KNOW HOW TO TRANSFORM YOUR SMILETO WOW ! IN LESS THAN AN HOUR
 
