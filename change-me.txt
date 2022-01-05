@@ -11,3 +11,10 @@ modified Deploy-dev-server.sh with conditional checks
 
 9:53 AM 1/3/2022
 commited Deploy-dev-server.sh to remote git
+9:31 PM 1/4/2022
+new data deployed-guru karthik
+
+7:26 AM 1/5/2022
+chansged many things
+
+7:30 AM 1/5/2022
