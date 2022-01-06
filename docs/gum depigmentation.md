@@ -1,6 +1,6 @@
 ## GUM DEPIGMENTATION
 
-![full-blown-smile.jpg (600×400) (surgendentist.in)](http://media.surgendentist.in/full-blown-smile.jpg)
+![full-blown-smile.jpg (600×400) (surgendentist.in)](https://media.surgendentist.in/full-blown-smile.jpg)]()
 
 Hyperpigmentation of gums is termed as a darker color of gums beyond what is normally expected. Hyperpigmented gums can create an unsightly gum display which can make for an unpleasant smile and affect your confidence.
 
