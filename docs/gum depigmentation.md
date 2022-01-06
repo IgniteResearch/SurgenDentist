@@ -1,16 +1,10 @@
 ## GUM DEPIGMENTATION
 
-Is a cosmetic procedure to lighten your gum colour. 
+![full-blown-smile.jpg (600×400) (surgendentist.in)](http://media.surgendentist.in/full-blown-smile.jpg)
 
+Hyperpigmentation of gums is termed as a darker color of gums beyond what is normally expected. Hyperpigmented gums can create an unsightly gum display which can make for an unpleasant smile and affect your confidence.
 
-
-Hyperpigmentation of gums is termed as a darker colour of gums beyond what is normally expected. Hyperpigmented gums can create an unsightly gum display which can make for an unpleasant smile and affect your confidence.
-
-Gum depigmentation, also known sometimes as gum bleaching, is a cosmetic procedure to lighten your gum colour. 
-
-## MAKE YOUR GUMS PINK AND HEALTHY
-
-
+Gum depigmentation, also known sometimes as gum bleaching, is a cosmetic procedure to lighten your gum color. 
 
 ## WHAT CAUSES GUM HYPERPIGMENTATION?
 
@@ -41,11 +35,15 @@ If all medical issues are ruled out, the problem, being an esthetic one, can be 
 
 
 
+
+
+
+
 ## HOW IS GUM DEPIGMENTATION DONE?
 
 ![gum depigmentation done](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_612,h_612/https://www.fmsdental.com/wp-content/uploads/2021/06/gum-depigmentation-done.jpg)
 
-**Surgical and lasers are the two options widely used and practised at FMS Dental Hospitals.**
+**Surgical and lasers are the two options widely used and practised at Dental Hospitals.**
 
 **Surgical depigmentation**
 
@@ -57,11 +55,11 @@ If all medical issues are ruled out, the problem, being an esthetic one, can be 
 
 – Once all bleeding is controlled, the treated sites may be covered with a dressing.
 
+
+
 ## LASER DEPIGMENTATION
 
-**
-
-– Topical anaesthesia can suffice with use of lasers.
+– Topical anesthesia can suffice with use of lasers.
 
 – The laser tip is activated and then used in contact with gums in continuous brushing strokes with feather light touch.
 
@@ -81,7 +79,7 @@ If all medical issues are ruled out, the problem, being an esthetic one, can be 
 
 ## WHAT TO EXPECT AFTER THE PROCEDURE?
 
-– The dressing will be in place for upto 1 week.
+The dressing will be in place for upto 1 week.
 
 – You will be prescribed painkillers for upto 3 days to take care of any pain/discomfort you may experience postoperatively.
 
@@ -94,8 +92,6 @@ If all medical issues are ruled out, the problem, being an esthetic one, can be 
 – Do not brush the treated site until the dressing is removed.
 
 ## HOW LONG WILL IT TAKE TO HEAL AFTER DEPIGMENTATION PROCEDURES?
-
-
 
 Routinely, your gums will heal with 7-14 days. Any discomfort can be managed with medications and resolved soon with abiding by the instructions given by your periodontist.
 
@@ -112,3 +108,4 @@ Gum depigmentation is a treatment of choice when esthetics is a concern and desi
 Lasers are safe, reliable, effective modality with superior esthetic result, minimal post treatment problems and lower recurrence rate.
 
 Relapse of hyperpigmentation is a possibility and your periodontist will explain factors that can slow down the frequency of recurrence.
+
