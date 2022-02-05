@@ -3,10 +3,11 @@ name: Build & deploy
 on:
   push:
     branches:
-      - main
+      - portal
   pull_request:
     branches:
-      - main
+      - portal
+  workflow_dispatch : 
 
 jobs:
   build:
