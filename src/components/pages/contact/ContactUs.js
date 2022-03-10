@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React from 'react';
 import './ContactUs.css';
 import FeatureItem from '../homePagesComponents/FeatureItem';
 

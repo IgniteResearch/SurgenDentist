@@ -19,7 +19,7 @@ const Calender = () => {
   useEffect(() => {
     let formatDate = `${date ? format(date, 'MMM dd, yyyy', { locale: enGB }) : ''}`
     handleSelectDate(formatDate)
-  }, [date])
+  }, [date, handleSelectDate])
 
   return (
     <>

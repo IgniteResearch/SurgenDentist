@@ -10,7 +10,7 @@ const FeatureItem = ({ icon, title, subTitle, extraClass, subTitleHref }) => {
         </span></h6>
         <div className="home-icons-container">
           <h6>{title}</h6>
-          <a href={subTitleHref} target="_blank"><p>{subTitle}</p></a>
+          <a href={subTitleHref}  rel="noopener noreferrer" target="_blank"><p>{subTitle}</p></a>
         </div>
       </div>
     </div>

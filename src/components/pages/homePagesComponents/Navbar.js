@@ -5,7 +5,7 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light" id="main-home-navbar">
-      <a className="logo d-none d-xl-block d-lg-block" href=''>
+      <a className="logo d-none d-xl-block d-lg-block" href='/#'>
         <img src="/SPARKS-DENTAL-SKIN-AESTHETIC-CENTRE.png" alt="" /></a>
        <div
         className="collapse navbar-collapse " id="navbarNav">

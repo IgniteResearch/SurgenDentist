@@ -1,9 +1,9 @@
-import React, { useContext, useEffect, useState } from 'react';
+import React, { useContext, useState } from 'react';
 import './AppoitmentForm.css';
 import { UserContext } from '../../useAuth';
 import axios from 'axios';
 import Loading from '../../uttiles/Loading';
-import { ToastContainer, toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const AppointmentForm = ( props) => {
