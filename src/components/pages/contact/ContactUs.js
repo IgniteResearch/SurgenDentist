@@ -32,22 +32,22 @@ const ContactUs = () => {
                 <form autoComplete="off" className="mt-4" >
                   <div className="form-group">
                     <label htmlFor="username">Name</label>
-                    <input type="text" className="form-control" id="username" required />
+                    <input type="text" className="form-control" id="Name" required />
                   </div>
                   <div className="form-group">
                     <label htmlFor="username">E-mail</label>
-                    <input type="text" className="form-control" id="username" required />
+                    <input type="text" className="form-control" id="E-mail" required />
                   </div>
                   <div className="form-group">
                     <label htmlFor="username">Contact Number</label>
-                    <input type="text" className="form-control" id="username" required />
+                    <input type="text" className="form-control" id="Contact Number" required />
                   </div>
                   <div className="form-group">
                     <label htmlFor="username">Message</label>
-                    <input type="text" className="form-control" id="username" required />
+                    <input type="text" className="form-control" id="Message" required />
                   </div>
                   <div className="form-group">
-                    <button type="submit" className="btn sign-in-btn w-100 text-white">Sign In</button>
+                    <button type="submit" className="btn sign-in-btn w-100 text-white">Contact Us</button>
                   </div>
                 </form>
               </div>
