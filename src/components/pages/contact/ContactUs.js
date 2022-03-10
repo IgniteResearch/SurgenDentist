@@ -1,7 +1,7 @@
 import React from 'react';
 import './ContactUs.css';
 import FeatureItem from '../homePagesComponents/FeatureItem';
-import Navbar from '../homePagesComponents/Navbar';
+
 
 const ContactUs = () => {
 
