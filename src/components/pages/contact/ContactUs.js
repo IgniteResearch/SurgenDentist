@@ -1,11 +1,12 @@
 import React from 'react';
 import './ContactUs.css';
 import FeatureItem from '../homePagesComponents/FeatureItem';
-
+import Header from '../homePagesComponents/Header';
 
 const ContactUs = () => {
 
   return (
+    <><Header />
     <section id="login-page">
       <div className="container">
         <div className="row pr-4 mr-4">
@@ -29,7 +30,7 @@ const ContactUs = () => {
             <div className="sign-in-container">
               <div className="signUp-form shadow">
                 <h2 className="text-center pb-4">Contact Us</h2>
-                <form autoComplete="off" className="mt-4" >
+                <form autoComplete="off" className="mt-4">
                   <div className="form-group">
                     <label htmlFor="username">Name</label>
                     <input type="text" className="form-control" id="Name" required />
@@ -55,7 +56,7 @@ const ContactUs = () => {
           </div>
         </div>
       </div>
-    </section>
+    </section></>
   );
 };
 
