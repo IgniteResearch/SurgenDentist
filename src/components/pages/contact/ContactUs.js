@@ -1,12 +1,12 @@
 import React from 'react';
 import './ContactUs.css';
 import FeatureItem from '../homePagesComponents/FeatureItem';
-import Header from '../homePagesComponents/Header';
+import Navbar from '../homePagesComponents/Navbar';
 
 const ContactUs = () => {
 
   return (
-    <><Header />
+    <>
     <section id="login-page">
       <div className="container">
         <div className="row pr-4 mr-4">
