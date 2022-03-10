@@ -22,12 +22,15 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 16.x
+        cache: 'npm'
     
     - name: Install NPM packages
       run: npm ci
     
     - name: Build project
-      run: npm run build
+        run: |
+          npm run build
+          echo 'surgendentist.in' > build/CNAME
     
     - name: Upload production-ready build files
       uses: actions/upload-artifact@v2
